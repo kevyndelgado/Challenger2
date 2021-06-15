@@ -1,0 +1,6 @@
+projectKey=org.desafio2:Challenger2
+serverUrl=http://200.111.183.149:8096
+serverVersion=8.9.1.44547
+dashboardUrl=http://200.111.183.149:8096/dashboard?id=org.desafio2%3AChallenger2
+ceTaskId=AXoQqcvZTscMJ-902Rr4
+ceTaskUrl=http://200.111.183.149:8096/api/ce/task?id=AXoQqcvZTscMJ-902Rr4
